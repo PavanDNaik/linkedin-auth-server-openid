@@ -1,0 +1,8 @@
+node_modules/
+lib/
+test/
+tsconfig.json
+.gitignore
+.env
+.env.example
+test-app/

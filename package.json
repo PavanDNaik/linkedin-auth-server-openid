@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-auth-server-openid",
+  "version": "1.0.0",
+  "description": "server side api interaction in linkedin auth using openid",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PavanDNaik/linkedin-auth-server-openid"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
