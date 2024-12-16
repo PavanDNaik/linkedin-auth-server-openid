@@ -1,6 +1,6 @@
 {
   "name": "linkedin-auth-server-openid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "server side api interaction in linkedin auth using openid",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
