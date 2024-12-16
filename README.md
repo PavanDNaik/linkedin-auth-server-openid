@@ -117,8 +117,6 @@ To implement the client-side login flow, refer to the [`react-linkedin-login-ope
 - Ensure your LinkedIn app is properly configured with the correct redirect URI.
 - Use HTTPS in production for secure communication.
 
-## License
-This package is open-source and available under the MIT License.
 
 ---
 

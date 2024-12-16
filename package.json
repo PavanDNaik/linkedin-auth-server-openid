@@ -1,6 +1,6 @@
 {
   "name": "linkedin-auth-server-openid",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "server side api interaction in linkedin auth using openid",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,15 @@
     "type": "git",
     "url": "https://github.com/PavanDNaik/linkedin-auth-server-openid"
   },
+  "keywords": [
+    "openid",
+    "linkedin",
+    "signin",
+    "oauth",
+    "server",
+    "access_token",
+    "vanity_name"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
